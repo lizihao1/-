@@ -1,3 +1,4 @@
+#网页后台扫描器，根据文件位置自行创建字典文件和网页target
 import sys
 import urllib.request
 import time
