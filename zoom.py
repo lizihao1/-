@@ -1,3 +1,4 @@
+#稍微根据python2.5修改到3的版本，但再requests.post时会被封IP
 import os
 import requests
 import json
